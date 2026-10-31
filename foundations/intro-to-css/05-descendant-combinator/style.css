@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+ .container .text {
+    text-align: center;
+    background-color: lightblue;
+    color: rgb(204, 38, 38);
+    font-size: 30px;
+    font-weight: bold;
+}
